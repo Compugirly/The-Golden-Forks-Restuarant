@@ -16,7 +16,7 @@ import { Picker } from '@react-native-picker/picker';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { useNavigation } from '@react-navigation/native';
 
-// Types
+
 type GoldenMenuItem = {
   itemName: string;
   description: string;
@@ -49,8 +49,8 @@ export default function AddMenuItemScreen({ navigation, route }: AddMenuItemScre
       const priceValue = parseFloat(price); // Convert price from string to number
 
       // Ensure that the entered price is a positive number
+      // Creates a new menu item object using the entered data
       if (priceValue > 0) {
-        // Creates a new menu item object using the entered data
         const newItem: GoldenMenuItem = {
           itemName,
           description,
@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
     height: Platform.OS === 'ios' ? 180 : 55,
     marginTop: Platform.OS === 'ios' ? -60 : 0,
   },
-  
+
   saveButton: {
     backgroundColor: '#2b4b35ff',
     padding: 17,
