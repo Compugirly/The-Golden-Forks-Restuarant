@@ -1,6 +1,6 @@
 /* CODE ATTRIBUTION */
 /* TITLE: Golden Forks Restaurant App */
-/* AUTHOR: Developed with assistance from Claude (Anthropic AI) And The Independent Institute of Education (Pty) Ltd */
+/* AUTHOR: Self Developed with assistance from Claude (Anthropic AI) 
 /* DATE: 12/11/2025 */
 /* VERSION: First Edition 2025 */
 /* DEPENDENCIES: React Native, React Navigation (native & native-stack) */
