@@ -5,7 +5,6 @@
 /* VERSION: First Edition 2025 */
 /* DEPENDENCIES: React Native, React Navigation (native & native-stack) */
 /* IMAGE CREDIT: https://images.pexels.com/photos/29575352/pexels-photo-29575352.jpeg */
-/* AVAILABLE: https://advtechonline.sharepoint.com/sites/TertiaryStudents/IIE%20Student%20Materials/Forms/Default%20View.aspx?id=%2Fsites%2FTertiaryStudents%2FIIE%20Student%20Materials%2FNew%20Student%20Materials%20CAT%2FWEDE5020%2F2025&viewid=db15e059%2D4f93%2D487f%2Dabda%2De538b821c7b8*/
 
 
 import React from "react";
