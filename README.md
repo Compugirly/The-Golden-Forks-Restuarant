@@ -2,7 +2,6 @@
 
 ## A Restaurant Menu Management and Filtering Application
 
-## POE Project Overview
 
 **The Golden Forks App** is a mobile application developed for a restaurant that required a digital system to manage and display its menu more efficiently. The app allows the chef to add and remove menu items, while customers can view and filter dishes based on their preferred course starter, main course, or dessert.
 The project was developed using TypeScript as part of the Module: MAST POE focusing on the app’s core functionality, navigation, and user interface.
