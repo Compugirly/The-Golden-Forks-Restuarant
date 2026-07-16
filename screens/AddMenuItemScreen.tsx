@@ -195,11 +195,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     overflow: 'hidden',
   },
+
   pickerStyle: {
     color: '#2e2d2dff',
     height: Platform.OS === 'ios' ? 180 : 55,
     marginTop: Platform.OS === 'ios' ? -60 : 0,
   },
+  
   saveButton: {
     backgroundColor: '#2b4b35ff',
     padding: 17,
